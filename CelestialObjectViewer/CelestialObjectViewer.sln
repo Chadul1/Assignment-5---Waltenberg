@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelestialObjectViewer", "CelestialObjectViewer\CelestialObjectViewer.csproj", "{FADAB294-A733-4FC5-97F9-B5689025FA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADAB294-A733-4FC5-97F9-B5689025FA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADAB294-A733-4FC5-97F9-B5689025FA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADAB294-A733-4FC5-97F9-B5689025FA7D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FADAB294-A733-4FC5-97F9-B5689025FA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADAB294-A733-4FC5-97F9-B5689025FA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADAB294-A733-4FC5-97F9-B5689025FA7D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65EA0B7C-BE82-47A4-A9A9-F6A56CA1123E}
+	EndGlobalSection
+EndGlobal

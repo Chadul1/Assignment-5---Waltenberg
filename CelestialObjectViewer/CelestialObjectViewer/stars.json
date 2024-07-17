@@ -1,0 +1,40 @@
+﻿{
+    "stars": [
+        {
+            "Name": "The Sun",
+            "Distance": "93,000,000 mi",
+            "Magnitude": "4.83",
+            "ImageURL": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001435/GSFC_20171208_Archive_e001435~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint"
+        },
+        {
+            "Name": "Mira",
+            "Distance": "300 Light Years",
+            "Magnitude": "+0.99",
+            "ImageURL": "https://cdn.britannica.com/28/126228-004-A4FF4373/Mira-Ceti-Hubble-Space-Telescope.jpg"
+        },
+        {
+            "Name": "Vega",
+            "Distance": "25.04 ± 0.07 Light Years",
+            "Magnitude": "+0.582",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vega_by_Stephen_Rahn.jpg"
+        },
+        {
+            "Name": "Sirius B",
+            "Distance": "8.709 ± 0.005 Light Years",
+            "Magnitude": "+11.18",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sirius_A_and_B_Hubble_photo.jpg"
+        },
+        {
+            "Name": "Aldebaran",
+            "Distance": "65.3 ± 1.0 Light Years",
+            "Magnitude": "−0.641±0.034",
+            "ImageURL": "https://www.star-facts.com/wp-content/uploads/2019/10/Aldebaran-star.webp"
+        },
+        {
+            "Name": "Castor AB",
+            "Distance": "51 ± 3 Light Years",
+            "Magnitude": "+0.986 / +1.886",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/1/10/Castor.jpg"
+        }
+    ]
+}

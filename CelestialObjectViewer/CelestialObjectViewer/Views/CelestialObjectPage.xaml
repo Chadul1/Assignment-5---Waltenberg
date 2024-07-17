@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:CelestialObjectViewer.ViewModels"
+             x:Class="CelestialObjectViewer.Views.CelestialObjectPage"
+             Title="CelestialObjectPage">
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Pick Space data!" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Center"> </Label>
+            <!-- The Picker that determines what is shown on screen.-->
+            <Picker x:Name="DataPicker" Title="Celestial Body Data Picker" WidthRequest="200" SelectedIndexChanged="OnPickerSelectedIndexChanged">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Everything</x:String>
+                        <x:String>Planets</x:String>
+                        <x:String>Stars</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}" />
+            <!-- The list of objects shown. Details concerning each object is determined by the ISPLANET and ISSTAR bools.-->
+            <ListView ItemsSource="{Binding PlanetsAndStars}" BackgroundColor="Black" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Margin="10, 20, 10, 10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="160"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="70"/>
+                                    <RowDefinition Height="40"/>
+                                    <RowDefinition Height="50"/>
+                                </Grid.RowDefinitions>
+                                <Image Source="{Binding ImageURL}" Grid.Column="0" Grid.RowSpan="3" 
+                                       Style="{StaticResource ListImageStyle}"/>
+                                <Label Text="{Binding Name}" Grid.Row="0" Grid.Column="1" 
+                                       Style="{StaticResource NameLabelStyle}"/>
+                                <Label Text="{Binding Source}" TextColor="White" HorizontalOptions="StartAndExpand"
+                                       VerticalOptions="StartAndExpand" Grid.Row="1" Grid.Column="1" 
+                                       IsVisible="{Binding IsPlanet}"/>
+                                <Label Text="{Binding Magnitude}" TextColor="White" HorizontalOptions="StartAndExpand"
+                                       VerticalOptions="StartAndExpand" Grid.Row="1" Grid.Column="1" 
+                                       IsVisible="{Binding IsStar}"/>
+                                <Label Text="{Binding Distance}" TextColor="White" HorizontalOptions="StartAndExpand"
+                                       VerticalOptions="StartAndExpand" Grid.Row="2" Grid.Column="1" 
+                                       IsVisible="{Binding IsStar}"/>
+                                <Label Text="{Binding Year}" TextColor="White" Grid.Row="2" Grid.Column="1"
+                                       VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand" IsVisible="{Binding IsPlanet}"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+
+
+</ContentPage>

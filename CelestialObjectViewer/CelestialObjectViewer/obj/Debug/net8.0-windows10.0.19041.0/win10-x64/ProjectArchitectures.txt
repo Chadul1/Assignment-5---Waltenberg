@@ -1,0 +1,1 @@
+C:\Users\chade\Downloads\CelestialObjectViewer\CelestialObjectViewer\CelestialObjectViewer\CelestialObjectViewer.csproj;x64

@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\viewmodels\\celestialobjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\viewmodels\\celestialobjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\views\\celestialobjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\views\\celestialobjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\views\\celestialobjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\views\\celestialobjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\services\\starservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\services\\starservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\services\\iplanetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\services\\iplanetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\viewmodels\\basepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\viewmodels\\basepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\stars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\stars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\services\\istarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\services\\istarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\planets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\planets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\models\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\models\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\models\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\models\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|c:\\users\\chade\\downloads\\assignment 5\\assignment-5---waltenberg\\celestialobjectviewer\\celestialobjectviewer\\models\\celestialobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FADAB294-A733-4FC5-97F9-B5689025FA7D}|CelestialObjectViewer\\CelestialObjectViewer.csproj|solutionrelative:celestialobjectviewer\\models\\celestialobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CelestialObjectPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Views\\CelestialObjectPage.xaml.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Views\\CelestialObjectPage.xaml.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Views\\CelestialObjectPage.xaml.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\Views\\CelestialObjectPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:08:52.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Models\\Planet.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Models\\Planet.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Models\\Planet.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\Models\\Planet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:55:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPlanetService.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Services\\IPlanetService.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Services\\IPlanetService.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Services\\IPlanetService.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\Services\\IPlanetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:39:28.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanetService.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Services\\PlanetService.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Services\\PlanetService.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Services\\PlanetService.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\Services\\PlanetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:37:05.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StarService.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Services\\StarService.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Services\\StarService.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Services\\StarService.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\Services\\StarService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:36:48.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAYwGQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:26:04.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CelestialObjectPage.xaml",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Views\\CelestialObjectPage.xaml",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Views\\CelestialObjectPage.xaml",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Views\\CelestialObjectPage.xaml",
+              "RelativeToolTip": "CelestialObjectViewer\\Views\\CelestialObjectPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-09T02:25:38.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CelestialObjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\ViewModels\\CelestialObjectViewModel.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\ViewModels\\CelestialObjectViewModel.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\ViewModels\\CelestialObjectViewModel.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\ViewModels\\CelestialObjectViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:31:46.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\ViewModels\\BasePageViewModel.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\ViewModels\\BasePageViewModel.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\ViewModels\\BasePageViewModel.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\ViewModels\\BasePageViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wCsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:43:17.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\MainPage.xaml",
+              "RelativeToolTip": "CelestialObjectViewer\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T16:16:42.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\App.xaml.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:21:26.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\App.xaml",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\App.xaml",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\App.xaml",
+              "RelativeToolTip": "CelestialObjectViewer\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T16:21:27.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\AppShell.xaml.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:21:40.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\MauiProgram.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\MauiProgram.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:21:44.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\MainPage.xaml.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:22:52.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutAssets.txt",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Resources\\Raw\\AboutAssets.txt",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Resources\\Raw\\AboutAssets.txt",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Resources\\Raw\\AboutAssets.txt",
+              "RelativeToolTip": "CelestialObjectViewer\\Resources\\Raw\\AboutAssets.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-17T00:11:11.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "stars.json",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\stars.json",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\stars.json",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\stars.json",
+              "RelativeToolTip": "CelestialObjectViewer\\stars.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T15:55:16.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Star.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Models\\Star.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Models\\Star.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Models\\Star.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\Models\\Star.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:38:35.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Models\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Models\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Models\\SessionInfo.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\Models\\SessionInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:38:35.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStarService.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Services\\IStarService.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Services\\IStarService.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Services\\IStarService.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\Services\\IStarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:38:29.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CelestialObject.cs",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Models\\CelestialObject.cs",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\Models\\CelestialObject.cs",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\Models\\CelestialObject.cs",
+              "RelativeToolTip": "CelestialObjectViewer\\Models\\CelestialObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:41:47.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "planets.json",
+              "DocumentMoniker": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\planets.json",
+              "RelativeDocumentMoniker": "CelestialObjectViewer\\planets.json",
+              "ToolTip": "C:\\Users\\chade\\Downloads\\Assignment 5\\Assignment-5---Waltenberg\\CelestialObjectViewer\\CelestialObjectViewer\\planets.json",
+              "RelativeToolTip": "CelestialObjectViewer\\planets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T02:31:18.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
